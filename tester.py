@@ -1,4 +1,3 @@
-from re import sub
 from sys import argv
 from time import time
 from json import loads
